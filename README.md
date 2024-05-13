@@ -12,7 +12,7 @@ I am a passionate Web Design and Frontend dev student at Qinshift Academy, drive
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,figma.ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,figma,ps,ai)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
